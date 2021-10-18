@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+
+body{
+  background-color: #80532d;
+  font-family: 'Rock Salt', cursive;;
+}
+
+#main{
+ background-color: #a0734d; 
+}
+
+#img-div{
+  background-color: #c78752;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+#title{
+  text-align: center;
+  font-size: 50px;
+  padding-top: 15px;
+  height: 40px;
+  letter-spacing: 7px
+}
+
+#title-caption{
+  padding-top: 20px;
+ text-align: center;
+ font-size: 21px;
+}
+
+#image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 3px;
+  max-width: 40%;
+}
+
+#img-caption{
+  text-align: center;
+  padding-bottom: 13px;
+}
+
+h2{
+  text-align: center;
+  font-size: 25px;
+  padding-top: 45px;
+  padding-bottom: 10px;
+}
+
+#tribute-info{
+  margin-left: 10%;
+  margin-right: 10%;
+  line-height: 2.8;
+}
+
+#elvis-quote{
+  text-align: center;
+  font-size: 19.2px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  font-style: italic;
+}
+
+#text-link-line{
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 35px
+}
